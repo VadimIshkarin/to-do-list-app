@@ -1,2 +1,2 @@
 # to-do-list-app
-mini-project
+my jQuery mini-project
